@@ -64,8 +64,8 @@ function draw() {
 
    obstacle.scale =   0.5;
    
-    obstacle.x = random(400,700);
-    obstacle.y = random(100,600);
+    //obstacle.x = random(400,700);
+    //obstacle.y = random(100,600);
 
     obstacle.lifetime = 200;
     obstacle.depth = car.depth;
